@@ -1,6 +1,6 @@
 ** test code for coding together
 first, make a new branch by visual studio code text
 second, make a second branch to make a revision
-third, HI! how are you?
-fourth, fine, thank you, and you?
-fifth, fifty-fifty!!
+third, invite other code builders at github webpage platform
+fourth, share the git address to other code builders
+fifth, build together and push & pull
